@@ -10,6 +10,7 @@
 6. Define a conventional association writer for the primary model to properly instantiate associations based on the nested params association data.
 7. Define a custom association writer for the primary model to properly instantiate associations with custom logic (like unique by name) on the nested params association data.
 8. Use fields_for to generate the association fields.
+9. :)
 
 ## Overview
 
